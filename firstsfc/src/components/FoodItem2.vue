@@ -22,6 +22,6 @@ export default {
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: Hex #966919, RGB (150, 105, 25);
+    background-color:  #966919, RGB (150, 105, 25);
   }
 </style>
